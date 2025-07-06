@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="593b5f16-9dd8-42e8-80f4-e9d43e68d0fc" name="Changes" comment="add some lines">
+    <list default="true" id="593b5f16-9dd8-42e8-80f4-e9d43e68d0fc" name="Changes" comment="update requirements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
   "keyToString": {
     "Python.data_analysis.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "#1 on sec-b"
+    "git-widget-placeholder": "#3 on sec-b"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -118,12 +120,30 @@
       <option name="project" value="LOCAL‎" />
       <updated>1751549644124</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL‎-00005" summary="add requirements">
+      <option name="closed" value="true" />
+      <created>1751550242017</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1751550242017</updated>
+    </task>
+    <task id="LOCAL‎-00006" summary="update requirements">
+      <option name="closed" value="true" />
+      <created>1751550465887</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL‎-00006" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1751550465887</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first &amp; sec commit" />
     <MESSAGE value="add some lines" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some lines" />
+    <MESSAGE value="add requirements" />
+    <MESSAGE value="update requirements" />
+    <option name="LAST_COMMIT_MESSAGE" value="update requirements" />
   </component>
 </project>
